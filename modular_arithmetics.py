@@ -1,4 +1,4 @@
-from primarity_test import isPrime
+from primarity_test import isPrime #https://github.com/abbbaf/primarity-test
 
 
 def abs(a):
